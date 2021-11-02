@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\bin\Debug\tip-donusumleri.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\bin\Debug\tip-donusumleri.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\bin\Debug\tip-donusumleri.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\obj\Debug\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\obj\Debug\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\obj\Debug\tip-donusumleri.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\tip-donusumleri\obj\Debug\tip-donusumleri.pdb
