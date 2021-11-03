@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\obj\Debug\hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\obj\Debug\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\bin\Debug\hata_yonetimi.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\bin\Debug\hata_yonetimi.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\bin\Debug\hata_yonetimi.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\obj\Debug\hata_yonetimi.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\hata_yonetimi\obj\Debug\hata_yonetimi.pdb
