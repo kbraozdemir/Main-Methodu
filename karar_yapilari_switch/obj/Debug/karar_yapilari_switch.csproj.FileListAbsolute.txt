@@ -1,0 +1,6 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\bin\Debug\karar_yapilari_switch.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\bin\Debug\karar_yapilari_switch.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\bin\Debug\karar_yapilari_switch.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\obj\Debug\karar_yapilari_switch.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\obj\Debug\karar_yapilari_switch.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\karar_yapilari_switch\obj\Debug\karar_yapilari_switch.pdb
